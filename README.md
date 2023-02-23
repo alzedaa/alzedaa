@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Ayman!
 - 👀 I’m interested in coding for the future
-- 🌱 I’m currently learning graphql
